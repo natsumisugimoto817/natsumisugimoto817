@@ -2,7 +2,7 @@
 
 Data scientist with about ten years in finance. Former data scientist at KPMG Japan (financial statement fraud detection, co-inventor of a patent on explainable models), USCPA. Now studying at NUS-ISS in Singapore.
 
-I like turning models into tools that people can **understand, trust and actually use** in banking and audit.
+I like turning models into tools that people can **understand, trust and actually use**.
 
 ## Projects: explainable ML and GenAI for banking
 
